@@ -1,0 +1,14 @@
+Introduction:
+This lab is about to search the local file system quickly and also allows
+the user to search for a file quickly. Indexing can be done through many ways such as Hash Maps, Binary Search trees and Maps
+
+Working:
+There is a local file system crawler and there are Index paths, names and readable/searchable content
+for each file.
+Unit test are included to test the code.
+
+How to Run:
+Run the Code and Unit test
+  
+GitHub:
+https://github.com/13besebali/AP_Lab4
